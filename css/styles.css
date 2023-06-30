@@ -28,7 +28,7 @@ body {
   
 }
 
-.header-menu-link {
+.header-menu {
 color: var(--navyblue, #2E2F42);
         /* Body Medium */
         font-size: 16px;
