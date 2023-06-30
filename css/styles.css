@@ -84,7 +84,8 @@ color: var(--navyblue, #2E2F42);
 }
 .hero-btn:hover,
 .hero-btn:focus {
-color: #404BBF;
+color: var(--white, #FFF);
+background-color: #404BBF
 }
 
 /*-----------advantage------------*/
@@ -117,12 +118,15 @@ color: #404BBF;
 
 /*-----------team------------*/
 .team {
-background-color: #FFFFFF
+background-color: #F4F4FD
 }
 
 
 
 .team-list {}
+.team-lead {
+    background-color: #FFFFFF
+}
 
 
 .team-members {
@@ -180,7 +184,8 @@ color: var(--cloud, #F4F4FD);
         text-align: center;
         /* Button Text */
         font-size: 16px;
-        font-family: Roboto;
+        font-family: "Roboto",
+            sans-serif;
         font-style: normal;
         font-weight: 500;
         line-height: 1.5;
