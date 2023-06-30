@@ -61,7 +61,7 @@ color: var(--navyblue, #2E2F42);
 .hero {background: var(--navyblue, #2E2F42);}
 
 .hero-title {
-    color: var(--white, #FFF);
+   
         text-align: center;
         /* Header 1 */
         font-size: 56px;
@@ -80,9 +80,9 @@ color: var(--navyblue, #2E2F42);
     letter-spacing: 0.04em;
     background: var(--iris, #4D5AE5);
 }
-.hero-btn:hover
+.hero-btn:hover,
 .hero-btn:focus {
-background-color: #404BBF;
+color: #404BBF;
 }
 
 /*-----------advantage------------*/
@@ -165,4 +165,7 @@ color: var(--cloud, #F4F4FD);
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+.portfolio-link {
+    text-decoration: none;
 }
