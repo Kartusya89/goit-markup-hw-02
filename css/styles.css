@@ -1,9 +1,8 @@
 :root {
-    
+
 }
 body {
-    font-family: "Roboto",
-        sans-serif;
+    font-family: "Roboto",sans-serif;
     color: var(--navyblue, #2E2F42);
     background-color: #FFF;
 }
@@ -64,7 +63,7 @@ color: var(--navyblue, #2E2F42);
 .hero {background: var(--navyblue, #2E2F42);}
 
 .hero-title {
-   
+    color: #ffffff;
         text-align: center;
         /* Header 1 */
         font-size: 56px;
