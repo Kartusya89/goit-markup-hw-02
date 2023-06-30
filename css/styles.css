@@ -170,14 +170,15 @@ color: var(--cloud, #F4F4FD);
     text-decoration: none;
 }
 .portfolio-subtitle {
-    color: var(--navyblue, #2E2F42);
+        color: var(--navyblue, #2E2F42);
         /* Header 3 */
-        font-size: 20px;
         font-family: Roboto;
         font-style: normal;
+        font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
+    }
 }
 .portfolio-text {
     color: var(--slate, #434455);
