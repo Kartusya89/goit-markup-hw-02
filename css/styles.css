@@ -9,7 +9,7 @@ body {
         /* Header 2 */
         font-size: 36px;
         font-weight: 700;
-        line-height: 1,11;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
 }
@@ -17,10 +17,10 @@ body {
 .header-logo {
     color: #4d5ae5;
     font-size: 18px;
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-weight: 800;
-    line-height: 1,17;
-    letter-spacing: 0,03em;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 .header-logo-accent {
@@ -33,7 +33,7 @@ color: var(--navyblue, #2E2F42);
         /* Body Medium */
         font-size: 16px;
         font-weight: 500;
-        line-height: 1,5;
+        line-height: 1.5;
         letter-spacing: 0.02em;
 }
 .link {
@@ -52,7 +52,7 @@ color: var(--navyblue, #2E2F42);
         /* Body */
         font-size: 16px;
         font-family: Roboto;
-        line-height: 1,5;
+        line-height: 1.5;
         letter-spacing: 0.02em;
         font-style: normal;
 }
@@ -66,8 +66,8 @@ color: var(--navyblue, #2E2F42);
         /* Header 1 */
         font-size: 56px;
         font-weight: 700;
-        line-height: 1,07;
-        letter-spacing: 0,02em;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
 }
 
 .hero-btn {color: var(--white, #FFF);
@@ -76,13 +76,13 @@ color: var(--navyblue, #2E2F42);
     font-family: "Roboto",sans-serif;
     font-family: inherit;
     font-weight: 500;
-    line-height: 1.50;
+    line-height: 1.5;
     letter-spacing: 0.04em;
     background: var(--iris, #4D5AE5);
 }
 .hero-btn:hover
 .hero-btn:focus {
-    color: #404BBF;
+background-color: #404BBF;
 }
 
 /*-----------advantage------------*/
@@ -99,7 +99,7 @@ color: var(--navyblue, #2E2F42);
         /* Header 3 */
         font-size: 20px;
         font-weight: 500;
-        line-height: 1,2;
+        line-height: 1.2;
         letter-spacing: 0.02em;
 }
 
@@ -107,7 +107,7 @@ color: var(--navyblue, #2E2F42);
     color: var(--slate, #434455);
         /* Body */
         font-size: 16px;
-        line-height: 1,5;
+        line-height: 1.5;
         letter-spacing: 0.02em;
 }
 /*-----------work------------*/
@@ -115,7 +115,7 @@ color: var(--navyblue, #2E2F42);
 
 /*-----------team------------*/
 .team {
-    background: var(--cloud, #F4F4FD);
+background-color: #FFFFFF
 }
 
 
@@ -128,17 +128,18 @@ color: var(--navyblue, #2E2F42);
         /* Header 3 */
         font-size: 20px;
         font-weight: 500;
-        line-height: 1,20;
-        letter-spacing: 0,02em;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
 }
 
 .team-members-position {
     Copy color: var(--slate, #434455);
+    background-color: #FFFFFF
         text-align: center;
         /* Body */
         font-size: 16px;
-        line-height: 1,50;
-        letter-spacing: 0,02em;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
 }
 /*-----------team------------*/
 .footer {
@@ -162,6 +163,6 @@ color: var(--iris, #f4f4fd);
 color: var(--cloud, #F4F4FD);
     /* Body */
     font-size: 16px;
-    line-height: 1,50;
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
