@@ -43,6 +43,9 @@ color: var(--color-text);
 .header-menu-link {
     color: var(--color-text);
 }
+.header-adress {
+    font-style: normal;
+}
 .link {
     text-decoration: none;
 }
@@ -61,7 +64,6 @@ color: var(--color-text);
         font-family: Roboto;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        font-style: normal;
 }
 
 /*-----------hero------------*/
