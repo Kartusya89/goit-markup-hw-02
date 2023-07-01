@@ -9,6 +9,7 @@ body {
     background-color: #FFF;
 }
 .section-title {
+    color: var(--color-text);
     text-align: center;
         /* Header 2 */
         font-size: 36px;
