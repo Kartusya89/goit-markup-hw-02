@@ -5,7 +5,7 @@
 }
 body {
     font-family: "Roboto",sans-serif;
-    color: var(--primary-color );
+    color: var(--primary-color,#434455);
     background-color: #FFF;
 }
 .section-title {
@@ -33,7 +33,7 @@ body {
 }
 
 .header-menu {
-color: var(--color-text,);
+color: var(--color-text,#2e2f42);
         /* Body Medium */
         font-size: 16px;
         font-weight: 500;
@@ -101,7 +101,7 @@ background-color: #404BBF
 .advantages-menu {}
 
 .advantages-subtitle {
-    color: var(--color-text,)
+    color: var(--color-text,#2e2f42)
         /* Header 3 */
         font-size: 20px;
         font-weight: 500;
@@ -118,7 +118,7 @@ background-color: #404BBF
 }
 /*-----------work------------*/
 .work-title {
-    color: var(--color-text,)
+    color: var(--color-text, #2e2f42)
 
 }
 
