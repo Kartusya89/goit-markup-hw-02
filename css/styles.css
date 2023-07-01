@@ -33,7 +33,7 @@ body {
 }
 
 .header-menu {
-color: var(--color-text,#2e2f42);
+color: var(--color-text);
         /* Body Medium */
         font-size: 16px;
         font-weight: 500;
@@ -101,7 +101,7 @@ background-color: #404BBF
 .advantages-menu {}
 
 .advantages-subtitle {
-    color: var(--color-text,#2e2f42)
+    color: var(--color-text);
         /* Header 3 */
         font-size: 20px;
         font-weight: 500;
@@ -118,7 +118,7 @@ background-color: #404BBF
 }
 /*-----------work------------*/
 .work-title {
-    color: var(--color-text, #2e2f42)
+    color: var(--color-text);
 
 }
 
