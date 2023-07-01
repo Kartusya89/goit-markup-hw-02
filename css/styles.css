@@ -1,9 +1,10 @@
 :root {
-pointer
+--primary-color: #434455;
+
 }
 body {
     font-family: "Roboto",sans-serif;
-    color: var(--navyblue, #2E2F42);
+    color: var(--primary-color );
     background-color: #FFF;
 }
 .section-title {
@@ -215,7 +216,7 @@ color: var(--cloud, #F4F4FD);
     letter-spacing: 0.02em;}
 
 .portfolio-paragraph {
-    Copy color: var(--slate, #434455);
+     color: var(--primary-color );
 
         /* Body */
         font-size: 16px;
