@@ -350,7 +350,9 @@ margin-top: 96px;
 }
 
 
-.portfolio-ul-list 
+.portfolio-ul-list {
+    
+}
 
 .portfolio-item {
     flex-basis: calc((100 - 48px) / 3);
